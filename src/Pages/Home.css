@@ -1,0 +1,22 @@
+h1 {
+  color: #e2f063;
+}
+
+.Grad {
+  
+  background-image: url(../pic/back.png);
+  justify-content: center;
+  background-position: center;
+  border: inset;
+  border-radius: 10px;
+  border-style: none;
+  text-transform: uppercase;
+  width: 50%;
+  height: 200px;
+  max-width: 1000px;
+  padding: 25px;
+}
+
+.Text {
+  color: white;
+}
